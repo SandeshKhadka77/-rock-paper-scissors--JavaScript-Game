@@ -29,27 +29,9 @@ This project is mainly focused on **JavaScript logic, problem-solving, and state
 
 ---
 
-## 📂 Project Structure
-
-rock-paper-scissors/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-
----
-
-## ▶ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
-Open index.html in your browser
-
-## 🌐 Live Demo
+##  Live Demo
 👉 Live Preview:
+https://sandeshkhadka77.github.io/-rock-paper-scissors--JavaScript-Game/
 
 
 ## Learning Outcome
